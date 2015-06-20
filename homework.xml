@@ -1,7 +1,4 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="math_number" id="189" x="2" y="-2">
-    <field name="NUM">0</field>
-  </block>
   <block type="oled_cleardisplay" id="26" x="61" y="6">
     <next>
       <block type="oled_setcursor" id="59" inline="true">
